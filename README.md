@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akashgits
 - 👀 I’m interested in working on new fields
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on startup compinies
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
